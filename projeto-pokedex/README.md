@@ -9,9 +9,9 @@
 <br>
 
 <p align="center">
-  <img alt="Pokédex" src="https://imgur.com/a/vraMnAA" width="100%">
-  <img alt="Pokédex" src="https://imgur.com/a/4Y1WH6t" width="100%">
-  <img alt="Pokédex" src="https://imgur.com/a/DUi4bQO" width="100%">
+  <img alt="Pokédex" src="https://i.imgur.com/v7SfZ3E.png" width="100%">
+  <img alt="Pokédex" src="https://i.imgur.com/gWeSC8T.png" width="100%">
+  <img alt="Pokédex" src="https://i.imgur.com/zTLsSk3.png" width="100%">
 </p>
 
 ## Tecnologias 
